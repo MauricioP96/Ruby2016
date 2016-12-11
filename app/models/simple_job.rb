@@ -1,0 +1,2 @@
+class SimpleJob < Job
+end
